@@ -1,0 +1,250 @@
+.listagem-de-entidades,
+.listagem-de-entidades * {
+  box-sizing: border-box;
+}
+.listagem-de-entidades {
+  background: #ffffff;
+  width: 1152px;
+  height: 700px;
+  position: relative;
+  overflow: hidden;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-width: 1px;
+  width: 800px;
+  height: 505px;
+  position: absolute;
+  left: 174px;
+  top: 125px;
+}
+.we-form {
+  text-align: left;
+  font: 500 64px "Roboto", sans-serif;
+  position: absolute;
+  left: 447px;
+  top: 30px;
+}
+.we-form-span {
+  color: #ff5678;
+  font: 500 64px "Roboto", sans-serif;
+}
+.we-form-span2 {
+  color: #000000;
+  font: 500 64px "Roboto", sans-serif;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.entidades-cadastradas {
+  text-align: left;
+  font: 500 36px "Roboto", sans-serif;
+  position: absolute;
+  left: 240.47px;
+  top: 152px;
+}
+.entidades-cadastradas-span {
+  color: #ff5678;
+  font: 500 36px "Roboto", sans-serif;
+}
+.entidades-cadastradas-span2 {
+  color: #000000;
+  font: 500 36px "Roboto", sans-serif;
+}
+.vector {
+  position: absolute;
+  left: 212px;
+  top: 163.82px;
+  overflow: visible;
+}
+.entidade-1 {
+  position: absolute;
+  inset: 0;
+}
+.group-5 {
+  width: 286px;
+  height: 46px;
+  position: static;
+}
+.rectangle-7 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #35e6e9;
+  border-width: 1px;
+  width: 286px;
+  height: 46px;
+  position: absolute;
+  left: 349px;
+  top: 238px;
+}
+.abrigo-de-animais {
+  color: #35e6e9;
+  text-align: left;
+  font: 500 22px "Poppins", sans-serif;
+  position: absolute;
+  left: 390px;
+  top: 244px;
+}
+.pet-lar {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 243px;
+}
+.entidade-2 {
+  position: absolute;
+  inset: 0;
+}
+.group-3 {
+  width: 322px;
+  height: 46px;
+  position: static;
+}
+.rectangle-72 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #35e6e9;
+  border-width: 1px;
+  width: 322px;
+  height: 46px;
+  position: absolute;
+  left: 414px;
+  top: 332px;
+}
+.centro-de-alimenta-o {
+  color: #35e6e9;
+  text-align: left;
+  font: 500 22px "Poppins", sans-serif;
+  position: absolute;
+  left: 455px;
+  top: 338px;
+}
+.nosso-prato {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 337px;
+}
+.separador-2 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.25);
+  border-width: 1px 0 0 0;
+  width: 652px;
+  height: 0px;
+  position: absolute;
+  left: 241px;
+  top: 306px;
+}
+.entidade-3 {
+  position: absolute;
+  inset: 0;
+}
+.group-4 {
+  width: 286px;
+  height: 46px;
+  position: static;
+}
+.rectangle-73 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #35e6e9;
+  border-width: 1px;
+  width: 286px;
+  height: 46px;
+  position: absolute;
+  left: 444px;
+  top: 426px;
+}
+.cheche-infantil {
+  color: #35e6e9;
+  text-align: left;
+  font: 500 22px "Poppins", sans-serif;
+  position: absolute;
+  right: 483px;
+  left: 504px;
+  top: calc(50% - -82px);
+}
+.creche-do-sol {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 431px;
+}
+.separador-22 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.25);
+  border-width: 1px 0 0 0;
+  width: 652px;
+  height: 0px;
+  position: absolute;
+  left: 241px;
+  top: 400px;
+}
+.entidade-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-74 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #35e6e9;
+  border-width: 1px;
+  width: 286px;
+  height: 46px;
+  position: absolute;
+  left: 350px;
+  top: 520px;
+}
+.abrigo-de-animais2 {
+  color: #35e6e9;
+  text-align: left;
+  font: 500 22px "Poppins", sans-serif;
+  position: absolute;
+  left: 391px;
+  top: 526px;
+}
+.c-ezins {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 525px;
+}
+.separador-23 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.25);
+  border-width: 1px 0 0 0;
+  width: 652px;
+  height: 0px;
+  position: absolute;
+  left: 241px;
+  top: 494px;
+}
+.ver-dados {
+  color: #ff5678;
+  text-align: left;
+  font: 600 24px "Poppins", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 668px;
+  top: 243px;
+}

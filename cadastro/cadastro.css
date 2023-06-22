@@ -1,0 +1,159 @@
+.cadastro,
+.cadastro * {
+  box-sizing: border-box;
+}
+.cadastro {
+  background: #ffffff;
+  width: 1152px;
+  height: 700px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-width: 1px;
+  width: 603px;
+  height: 520px;
+  position: absolute;
+  left: 486px;
+  top: 85px;
+}
+.we-form {
+  text-align: left;
+  font: 500 64px "Roboto", sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 480px;
+}
+.we-form-span {
+  color: #ff5678;
+  font: 500 64px "Roboto", sans-serif;
+}
+.we-form-span2 {
+  color: #000000;
+  font: 500 64px "Roboto", sans-serif;
+}
+.rectangle-2 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-width: 1px;
+  width: 489px;
+  height: 55px;
+  position: absolute;
+  left: 543px;
+  top: 218px;
+}
+.rectangle-3 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-width: 1px;
+  width: 489px;
+  height: 55px;
+  position: absolute;
+  left: 543px;
+  top: 314px;
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-width: 1px;
+  width: 489px;
+  height: 55px;
+  position: absolute;
+  left: 543px;
+  top: 410px;
+}
+.rectangle-5 {
+  background: #35e6e9;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #c0ebf4;
+  border-width: 2px;
+  width: 489px;
+  height: 55px;
+  position: absolute;
+  left: 543px;
+  top: 506px;
+}
+.cadastrar {
+  color: #ffffff;
+  text-align: left;
+  font: 500 36px "Poppins", sans-serif;
+  position: absolute;
+  left: 696px;
+  top: 506px;
+}
+.nova-entidade {
+  text-align: left;
+  font: 500 36px "Roboto", sans-serif;
+  position: absolute;
+  left: 576px;
+  top: 129px;
+}
+.nova-entidade-span {
+  color: #000000;
+  font: 500 36px "Roboto", sans-serif;
+}
+.nova-entidade-span2 {
+  color: #ff5678;
+  font: 500 36px "Roboto", sans-serif;
+}
+.nome {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Roboto", sans-serif;
+  position: absolute;
+  left: 553px;
+  top: 187px;
+}
+.campo-de-atua-o {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Roboto", sans-serif;
+  position: absolute;
+  left: 553px;
+  top: 283px;
+}
+.pontos-de-coleta {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Roboto", sans-serif;
+  position: absolute;
+  left: 553px;
+  top: 379px;
+}
+.uil-angle-left {
+  position: absolute;
+  left: 532px;
+  top: 129px;
+  overflow: visible;
+}
+.uil-angle-left2 {
+  position: absolute;
+  left: 990px;
+  top: 362px;
+  transform: translate(0px, -42px);
+  overflow: visible;
+}
+.fa-solid-plus-circle {
+  position: absolute;
+  left: 1048px;
+  top: 426px;
+  overflow: visible;
+}
+.image-1 {
+  width: 409px;
+  height: 307px;
+  position: absolute;
+  left: 32px;
+  top: 118px;
+}

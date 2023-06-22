@@ -1,0 +1,153 @@
+.registar-novo-campo-de-atua-o,
+.registar-novo-campo-de-atua-o * {
+  box-sizing: border-box;
+}
+.registar-novo-campo-de-atua-o {
+  background: #ffffff;
+  width: 1152px;
+  height: 700px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-width: 1px;
+  width: 603px;
+  height: 520px;
+  position: absolute;
+  left: 486px;
+  top: 85px;
+}
+.we-form {
+  text-align: left;
+  font: 500 64px "Roboto", sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 480px;
+}
+.we-form-span {
+  color: #ff5678;
+  font: 500 64px "Roboto", sans-serif;
+}
+.we-form-span2 {
+  color: #000000;
+  font: 500 64px "Roboto", sans-serif;
+}
+.rectangle-3 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-width: 1px;
+  width: 489px;
+  height: 64px;
+  position: absolute;
+  left: 543px;
+  top: 396px;
+}
+.campo-de-atua-o {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Roboto", sans-serif;
+  position: absolute;
+  left: 553px;
+  top: 365px;
+  width: 149px;
+  height: 23px;
+}
+.rectangle-6 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-width: 1px;
+  width: 489px;
+  height: 55px;
+  position: absolute;
+  left: 543px;
+  top: 218px;
+}
+.rectangle-5 {
+  background: #35e6e9;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #c0ebf4;
+  border-width: 2px;
+  width: 489px;
+  height: 55px;
+  position: absolute;
+  left: 543px;
+  top: 506px;
+}
+.cadastrar {
+  color: #ffffff;
+  text-align: left;
+  font: 500 36px "Poppins", sans-serif;
+  position: absolute;
+  left: 696px;
+  top: 506px;
+}
+.campo-de-atua-o2 {
+  text-align: left;
+  font: 500 36px "Roboto", sans-serif;
+  position: absolute;
+  left: 576px;
+  top: 129px;
+  width: 303px;
+  height: 49px;
+}
+.campo-de-atua-o-2-span {
+  color: #000000;
+  font: 500 36px "Roboto", sans-serif;
+}
+.campo-de-atua-o-2-span2 {
+  color: #ff5678;
+  font: 500 36px "Roboto", sans-serif;
+}
+.pesquisar-atua-o {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Roboto", sans-serif;
+  position: absolute;
+  left: 553px;
+  top: 187px;
+}
+.uil-angle-left {
+  position: absolute;
+  left: 532px;
+  top: 129px;
+  overflow: visible;
+}
+.uil-angle-left2 {
+  position: absolute;
+  left: 990px;
+  top: 266px;
+  transform: translate(0px, -42px);
+  overflow: visible;
+}
+.image-1 {
+  width: 409px;
+  height: 307px;
+  position: absolute;
+  left: 32px;
+  top: 118px;
+}
+.cadastre-novo-campo-de-atua-o {
+  color: #ff5678;
+  text-align: left;
+  font: 400 18px "Poppins", sans-serif;
+  position: absolute;
+  left: 631px;
+  top: 317px;
+}
+.ou {
+  color: #000000;
+  text-align: left;
+  font: 600 18px "Poppins", sans-serif;
+  position: absolute;
+  left: 771px;
+  top: 283px;
+}

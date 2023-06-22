@@ -1,0 +1,136 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #ffffff;
+  width: 1152px;
+  height: 700px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.15);
+  border-width: 1px;
+  width: 603px;
+  height: 520px;
+  position: absolute;
+  left: 486px;
+  top: 85px;
+}
+.we-form {
+  text-align: left;
+  font: 500 64px "Roboto", sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 480px;
+}
+.we-form-span {
+  color: #ff5678;
+  font: 500 64px "Roboto", sans-serif;
+}
+.we-form-span2 {
+  color: #000000;
+  font: 500 64px "Roboto", sans-serif;
+}
+.bot-o {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-5 {
+  background: #ff5678;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #c0ebf4;
+  border-width: 2px;
+  width: 489px;
+  height: 55px;
+  position: absolute;
+  left: 543px;
+  top: 370px;
+}
+.ver-entidades-cadastradas {
+  color: #ffffff;
+  text-align: center;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 619px;
+  top: 380px;
+}
+.hyperlink {
+  position: absolute;
+  inset: 0;
+}
+.registrar-novo-campo-de-atua-o {
+  color: #000000;
+  text-align: center;
+  font: 500 18px "Poppins", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 542px;
+  top: 534px;
+  width: 488px;
+}
+.sua-entidade-n-o-se-enquadra-nos-campos-de-atua-o-dispon-veis {
+  color: #000000;
+  text-align: center;
+  font: 500 14px "Poppins", sans-serif;
+  position: absolute;
+  left: 543px;
+  top: 504px;
+  width: 488px;
+}
+.rectangle-52 {
+  background: #35e6e9;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #c0ebf4;
+  border-width: 2px;
+  width: 489px;
+  height: 55px;
+  position: absolute;
+  left: 543px;
+  top: 267px;
+}
+.cadastrar-entidade {
+  color: #ffffff;
+  text-align: center;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 669px;
+  top: 276px;
+  width: 240px;
+}
+.cadastre-sua-entidade-ou-acesse-dados-de-parceiras {
+  text-align: left;
+  font: 500 36px "Roboto", sans-serif;
+  position: absolute;
+  left: 541px;
+  top: 129px;
+}
+.cadastre-sua-entidade-ou-acesse-dados-de-parceiras-span {
+  color: #000000;
+  font: 500 36px "Roboto", sans-serif;
+}
+.cadastre-sua-entidade-ou-acesse-dados-de-parceiras-span2 {
+  color: #ff5678;
+  font: 500 36px "Roboto", sans-serif;
+}
+.cadastre-sua-entidade-ou-acesse-dados-de-parceiras-span3 {
+  color: #000000;
+  font: 500 36px "Roboto", sans-serif;
+}
+.cadastre-sua-entidade-ou-acesse-dados-de-parceiras-span4 {
+  color: #ff5678;
+  font: 500 36px "Roboto", sans-serif;
+}
+.image-2 {
+  width: 409px;
+  height: 307px;
+  position: absolute;
+  left: 32px;
+  top: 118px;
+}
